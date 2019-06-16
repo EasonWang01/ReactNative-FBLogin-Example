@@ -12,7 +12,7 @@ yarn start
 ```
 
 2.
-Change `android/app/src/main/res/values/strings.xml` to your appID/
+Change `android/app/src/main/res/values/strings.xml` to your appID
 https://developers.facebook.com/apps
 ```
 <resources>
